@@ -1,0 +1,25 @@
+header {
+    background-color: rgb(112, 37, 37);
+    min-height: 10vh;
+}
+
+nav {
+    background-color: rgb(182, 182, 182);
+    min-height: 1vh;
+}
+
+main {
+    background-color: rgb(255, 255, 255);
+    min-height: 10vh;
+}
+
+
+
+
+header {
+    margin: 2vh auto;
+}
+
+nav, main {
+    min-height: 87vh;
+}
