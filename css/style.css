@@ -12,3 +12,7 @@ footer {
     background-color: #454545;
     color: #fff;
 }
+
+section, #menu {
+    min-height: 63vh;
+}
