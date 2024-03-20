@@ -1,25 +1,14 @@
 header {
-    background-color: rgb(112, 37, 37);
-    min-height: 10vh;
+    background-color: #8B0000;
+    min-height: 65px;
+
 }
 
-nav {
-    background-color: rgb(182, 182, 182);
-    min-height: 1vh;
+.col-2 {
+    background-color: #EDEDED;
 }
 
-main {
-    background-color: rgb(255, 255, 255);
-    min-height: 10vh;
-}
-
-
-
-
-header {
-    margin: 2vh auto;
-}
-
-nav, main {
-    min-height: 87vh;
+footer {
+    background-color: #454545;
+    color: #fff;
 }
